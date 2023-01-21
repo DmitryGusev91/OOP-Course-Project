@@ -1,0 +1,14 @@
+
+
+1) After a draw for Tennis and Football you can insert another score for each player (another two for tennis) (as was instructed)
+   after the second draw Football you can insert another score for each player (as was instructed).
+   But if there is a draw at Basketball or second draw at Tennis or third draw at Football , there is no solution for this, you will
+   have to exit the "Game" window and start the matches again.
+2) The TextFields at the "Game" window may be little messy.
+   For instance if there are two competing players with different name lengths , the two TextFields for the same match wont be one under
+   the other, one will be more right or left then the other .  
+        
+
+
+
+
